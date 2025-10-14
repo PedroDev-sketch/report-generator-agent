@@ -1,0 +1,9 @@
+llama-index 
+llama-index-indices-managed-llama-cloud 
+llama-parse 
+llama-cloud 
+arxiv
+instructor
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+jupyter
